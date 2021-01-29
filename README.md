@@ -1,4 +1,27 @@
-# CMMSB-Desarrollo de software
+# Application of the nicholas algorithm for the selection of the ideal mining method.
 
-Repositorio del CMMSB para los proyectos de software minero.
-Aqui subiremos el código del software que estaremos desarrollando y opinaremos sobre posibles mejoras en los algoritmos.
+This code is a small program created by @Yairama that uses
+the nicolás method to determine the type of exploitation method to be used in a mine.
+The entire graphical interface is programmed in java swing and no additional libraries are used.
+
+## How to use
+
+In order to use the program it is necessary to have [Java](https://www.java.com/es/download/) installed.
+
+You can download the already compiled program from the following [link](https://drive.google.com/drive/folders/1bJaWH1tzEO5ud8vJ3awrHlv82mYJN-uH?usp=sharing)
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+
+
+
+Please make sure to update tests as appropriate.
+
+## About
+
+Autor: Malmco Yair Camborda Morocho - Mining engineering student
+
+[LinkedIn](https://www.linkedin.com/in/yairama/)
+
+### License
+[MIT](https://choosealicense.com/licenses/mit/)
