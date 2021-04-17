@@ -10,8 +10,6 @@ In order to use the program it is necessary to have [Java](https://www.java.com/
 
 You can download the already compiled program from the following [link](https://drive.google.com/drive/folders/1bJaWH1tzEO5ud8vJ3awrHlv82mYJN-uH?usp=sharing)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 
 
 
@@ -19,9 +17,8 @@ Please make sure to update tests as appropriate.
 
 ## About
 
-Autor: Malmco Yair Camborda Morocho - Mining engineering student
+Autor: [Malmco Yair Camborda Morocho](https://www.linkedin.com/in/yairama/) - Mining engineering student
 
-[LinkedIn](https://www.linkedin.com/in/yairama/)
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
