@@ -6,10 +6,11 @@ The entire graphical interface is programmed in java swing and no additional lib
 
 ## How to use
 
-In order to use the program it is necessary to have [Java](https://www.java.com/es/download/) installed.
+-In order to use the program it is necessary to have [Java](https://www.java.com/es/download/) installed.
 
-You can download the already compiled program from the following [link](https://drive.google.com/drive/folders/1bJaWH1tzEO5ud8vJ3awrHlv82mYJN-uH?usp=sharing)
+-You can download the already compiled program from the following [link](https://drive.google.com/drive/folders/1bJaWH1tzEO5ud8vJ3awrHlv82mYJN-uH?usp=sharing)
 
+-If you want the code it will be found inside _Metodo de nicholás Folder_
 
 ## About
 
