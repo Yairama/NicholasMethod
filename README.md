@@ -16,7 +16,7 @@ This code is a small program that uses
 the nicolás method to determine the type of exploitation method to be used in a mine.
 The entire graphical interface is programmed in java swing and no additional libraries are used.
 
-<video src='https://user-images.githubusercontent.com/45445692/230269623-f3f8add0-34db-4a8e-a3e1-ba47208e8025.mp4' width=720></video>
+https://user-images.githubusercontent.com/45445692/230269623-f3f8add0-34db-4a8e-a3e1-ba47208e8025.mp4
 
 
 ## How to use
